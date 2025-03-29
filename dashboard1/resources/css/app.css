@@ -1,0 +1,12 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+/* light mode */
+.light-mode {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+/* dark mode */
+.dark-mode {
+    background-color: #000000;
+    color: #ffffff;
+}
